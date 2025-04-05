@@ -32,10 +32,6 @@ If anything sparks your interest – whether it's a startup idea or something in
 
 Everything here is just me sharing what's on my mind and a bit about what I do. It's not super formal.
 
-## Me
-
-[Your Name or GitHub Username]
-
 ---
 
 **How to Use This (Still Super Simple):**
